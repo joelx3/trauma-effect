@@ -1,7 +1,0 @@
-"UnlitGeneric" 
-{ 
-	"$basetexture"		"perp2/vehicles/spyder"
-	"$vertexcolor" 		1 
-	"$vertexalpha" 		1 
-	"$nolod" 			1
-} 

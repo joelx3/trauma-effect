@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/sickness/cranes/window_diffuse"
-	"$surfaceprop" "Glass"
-	"$translucent" 1
-}

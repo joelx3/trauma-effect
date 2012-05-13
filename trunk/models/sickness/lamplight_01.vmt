@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/sickness/lamplight_01"
-	"$surfaceprop" "Glass"
-	"$nocull" 1
-}

@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/sickness/trailerparksign_001"
-	"$bumpmap" "models/sickness/trailerparksign_001n"
-	"$envmap" "env_cubemap"
-	"$surfaceprop" "Metal"
-	"$envmaptint" "[.2  .2  .2]"
-}

@@ -1,8 +1,0 @@
-"UnlitGeneric" 
-{ 
-	"$basetexture" "perpx_ag/property/rp_evocity_v8x/ev3x_outland_house2"
-	"$vertexcolor" 1 
-	"$vertexalpha" 1 
-	"$nolod" 1
-	"$ignorez" 1
-} 

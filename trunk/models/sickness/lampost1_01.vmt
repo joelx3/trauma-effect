@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/sickness/lampost1_01"
-	"$surfaceprop" "Metal"
-	"%keywords" "light lamp post"
-}

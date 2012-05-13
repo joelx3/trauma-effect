@@ -1,8 +1,0 @@
-UnlitGeneric
-{
-	"$basetexture"	"perp2/snow/bushgreen"
-	"$alphatest" "1"
-	"$nocull" "1"
-	"$model" "1"
-
-}

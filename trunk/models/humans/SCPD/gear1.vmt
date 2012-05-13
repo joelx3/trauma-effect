@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/humans/SCPD/gear1"
-	"$halflambert" 1
-}

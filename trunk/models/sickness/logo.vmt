@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/lp640/logo"
-	"$surfaceprop" "metal"
-	"$translucent" 1
-}

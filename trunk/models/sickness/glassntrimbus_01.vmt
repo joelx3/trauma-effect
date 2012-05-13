@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/sickness/glassntrimbus_01"
-	"$surfaceprop" "glass"
-	"$translucent" 1
-}

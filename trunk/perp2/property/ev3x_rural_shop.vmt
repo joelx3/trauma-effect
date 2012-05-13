@@ -1,8 +1,0 @@
-"UnlitGeneric" 
-{ 
-	"$basetexture" "perp/property/evo2/rural_shop"
-	"$vertexcolor" 1 
-	"$vertexalpha" 1 
-	"$nolod" 1
-	"$ignorez" 1
-} 

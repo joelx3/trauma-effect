@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/sickness/cranes/vehicleLights_d"
-	"$surfaceprop" "glass"
-	"$translucent" 1
-}

@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/tile/tileroof004b.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_evocity_v8x/c-3716_-5840_272"
-	}
-}

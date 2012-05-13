@@ -1,7 +1,0 @@
-"GMODScreenspace"
-{
-	"$ignorez"	1
-	"$basetexture" "_rt_FullFrameFB"
-	"$texturealpha" "0"
-	"$vertexalpha" "0"
-}

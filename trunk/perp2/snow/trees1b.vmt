@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "perp2/snow/trees1b"
-	"$alphatest" "1"
-	"$nocull" "1"
-}

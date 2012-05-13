@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/tdmcars/subaru/lights"
-	"$blendtintbybasealpha" 1
-	"$surfaceprop" metal
-	"$model" 1
-
-}

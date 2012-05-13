@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/sickness/cranes/crawlerCrane_diffuse"
-	"$bumpmap" "models/sickness/cranes/crawlerCrane_normal"
-	"$surfaceprop" "Metal_Box"
-}

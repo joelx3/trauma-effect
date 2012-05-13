@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/sickness/goosebody_01"
-	"$bumpmap" "models/sickness/goosebody_01n"
-	"$surfaceprop" "Metal"
-}

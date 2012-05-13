@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\gtaiv/vehicles/comet/comet_badges"
-	"$translucent" 1
-	"$bumpmap" "models\gtaiv/vehicles/comet/comet_badges_n"
-}

@@ -1,7 +1,0 @@
-"UnlitGeneric" 
-{ 
-	"$basetexture"		"perpx_ag/property/shop_01"
-	"$vertexcolor" 		1 
-	"$vertexalpha" 		1 
-	"$nolod" 			1
-} 

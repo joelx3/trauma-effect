@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/tdmcars/bugatti/lights"
-	"$envmap" "env_cubemap"
-	"$envmapcontrast" .2
-	"$envmapsaturation" 1
-
-}
