@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "city_8/war"
+   	"$surfaceprop" "glass"
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "0.1"
+      }
+   }
+}
+

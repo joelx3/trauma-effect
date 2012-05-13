@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"perp2/rain/drop"
+	"$vertexcolor" 1 
+	"$vertexalpha" 1 
+	"$translucent" 1
+	
+	"$bumpmap"			"perp2/rain/drop_normal"
+}

@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"perp2/hud/dg"
+	"$ignorez"			1
+	"$vertexcolor" 		1
+	"$vertexalpha" 		1
+	"$nolod" 			1
+}

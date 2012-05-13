@@ -1,0 +1,301 @@
+// premier
+
+
+"premier_engine_idle"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	//"wave"		"vehicles/atv_idle_loop1.wav"
+	"wave"		"vehicles/premier/idle.wav"
+}
+
+"premier_engine_null"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	"wave"		"common/null.wav"
+}
+
+"premier_engine_start"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	//"wave"		"vehicles/atv_start_loop1.wav"
+	"wave"		"vehicles/premier/start.wav"
+}
+
+"premier_engine_stop"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	//"wave"		"common/null.wav"
+	"wave"		"vehicles/premier/stop.wav"
+}
+
+"premier_rev"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"98,105"
+	"wave"		"vehicles/premier/rev_short_loop.wav"
+
+//	"rndwave"
+//	{
+//		"wave"		"vehicles/premier/rev_short_loop.wav"
+//		"wave"		"vehicles/premier/rev_short_loop.wav"
+//	}
+}
+
+"premier_reverse"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/premier/firstgear_reverse.wav"
+}
+
+
+"premier_firstgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"100"
+	//"wave"		"vehicles/v8/v8_firstgear_rev_loop1.wav"
+	"wave"		"vehicles/premier/first.wav"
+}
+
+"premier_secondgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_secondgear_to_fullthrottle_loop1.wav"
+	//"wave"		"vehicles/v8/v8_secondgear_loop1.wav"
+	"wave"		"vehicles/premier/second.wav"
+}
+
+"premier_thirdgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_thirdgear_to_fullthrottle_loop1.wav"
+	//"wave"		"vehicles/v8/v8_secondgear_loop1.wav"
+	"wave"		"vehicles/premier/second.wav"
+}
+
+"premier_fourthgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	"wave"		"vehicles/premier/third_cruise.wav"
+}
+
+"premier_firstgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/premier/first.wav"
+}
+"premier_secondgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/premier/second.wav"
+}
+"premier_thirdgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/premier/second.wav"
+}
+
+"premier_fourthgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/premier/third_cruise.wav"
+}
+
+"premier_downshift_to_2nd"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_downshift_to_2nd_loop1.wav"
+	"wave"		"vehicles/premier/firstgear_rev_loop.wav"
+	//"wave"		"vehicles/premier/idle.wav"
+	//"wave"		"common/null.wav"
+}
+
+"premier_downshift_to_1st"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_downshift_to_1st_loop1.wav"
+	"wave"		"vehicles/premier/throttle_off_fastspeed.wav"
+	//"wave"		"vehicles/premier/idle.wav"
+	//"wave"		"common/null.wav"
+}
+
+"premier_throttleoff_slowspeed"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/premier/throttleofffast.wav"
+	"wave"		"vehicles/premier/throttle_off_slowspeed.wav"
+}
+
+"premier_throttleoff_fastspeed"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_throttleoff_loop1.wav"
+	"wave"		"vehicles/premier/throttle_off_fastspeed.wav"
+	//"wave"		"common/null.wav"
+}
+
+"premier_skid_lowfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_lowfriction.wav"
+	"wave"		"vehicles/v8/skid_lowfriction.wav"
+}
+
+"premier_skid_normalfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_normalfriction.wav"
+	"wave"		"vehicles/v8/skid_normalfriction.wav"
+}
+
+"premier_skid_highfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_highfriction.wav"
+	"wave"		"vehicles/v8/skid_highfriction.wav"
+}
+
+"premier_impact_heavy"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_impact_heavy1.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy2.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy3.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy4.wav"
+	}
+}
+
+"premier_impact_medium"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_impact_medium1.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium2.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium3.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium4.wav"
+	}
+}
+
+"premier_rollover"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_rollover1.wav"
+		"wave"	"vehicles/v8/vehicle_rollover2.wav"
+	}
+}
+
+
+"premier_turbo_on"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/vehicle_turbo_loop3.wav"
+	"wave"		"vehicles/premier/turbo.wav"
+}
+
+"premier_turbo_off"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/vehicle_turbo_off1.wav"
+	"wave"		"vehicles/v8/v8_turbo_off.wav"
+}
+
+"premier_start_in_water"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/jetski/jetski_no_gas_start.wav"
+}
+
+"premier_stall_in_water"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/jetski/jetski_off.wav"
+}

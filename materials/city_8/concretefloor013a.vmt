@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "city_8/concretefloor013a"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "city_8/concretefloor013a_normal"
+	"$phong" "1"
+	"$phongexponent" "75"
+	"$phongboost" "1"		
+}

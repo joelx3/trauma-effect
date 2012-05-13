@@ -1,0 +1,8 @@
+"UnlitGeneric" 
+{ 
+	"$basetexture"		"perp2/phone_icon"
+	"$vertexcolor" 		1 
+	"$vertexalpha" 		1 
+	"$translucent"		1
+	"$nolod" 			1
+} 

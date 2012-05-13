@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "env_textures/neon21"
+	"$surfaceprop" "metal"
+	"$additive" 1
+	"$selfillum" 1
+
+}

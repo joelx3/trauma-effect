@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+"$baseTexture" "models\player\swatply\ct_gsg9"
+"$alphatest" "1"
+"$translucent" "1"
+"$bumpmap" "models/player/swatply/ct_gsg9_normal"
+"$normalmapalphaenvmapmask" 1
+"$envmap" "env_cubemap"
+}

@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+   "$basetexture" "city_8/city8sky"
+   "$envmap" "env_cubemap"	
+   "$bumpmap" "city_8/hex_normal"
+   "$normalmapalphaenvmapmask" 1
+   	"$surfaceprop" "glass"
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "20"
+      }
+   }
+}

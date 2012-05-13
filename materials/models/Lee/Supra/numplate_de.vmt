@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Lee/Supra/numplate_de"
+	"$nocull" 1
+}

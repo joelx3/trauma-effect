@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Lee/Supra/Body_8"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/Lee/Supra/liner_env"
+}

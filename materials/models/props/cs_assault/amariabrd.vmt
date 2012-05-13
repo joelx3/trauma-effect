@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props/cs_assault/AmariaBrd"
+	"$bumpmap" "models/props/cs_assault/AmariaBrd_N"
+	"$selfillum" "1"
+}

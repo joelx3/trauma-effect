@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture"	"models/Humans/male/Zombie1/va2_facemap"
+	"$Bumpmap"	"models/Humans/male/Zombie1/va2_facemap_normal"
+	"$envmapsphere" 1
+	"$halflambert" 1
+}

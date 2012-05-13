@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Lee/Supra/wheel"
+	"$nocull" 1
+}

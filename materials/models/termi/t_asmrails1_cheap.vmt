@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\termi\t_asmrails1"
+	//"$bumpmap" "models\termi\t_asmrails1_normal"
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[ .45 .45 .45 ]"
+     	//"$normalmapalphaenvmapmask" 1
+     	//"$envmapcontrast" 0
+     	"$model" 1
+}

@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "city_8/BlueC8CCA"
+	"$translucent" 1
+	"$nocull" 1
+	"$decal" 1
+	"$surfaceprop" "glass"
+	"$decalscale" 0.25
+	"%keywords" "City8"
+}

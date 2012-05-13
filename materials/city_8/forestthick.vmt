@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "city_8/forest"
+	"$selfillum" "1"
+		"$surfaceprop" "glass"
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "10"
+      }
+   }
+}
+

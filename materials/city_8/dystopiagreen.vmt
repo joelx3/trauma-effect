@@ -1,0 +1,8 @@
+"unlittwotexture"
+{
+	"$baseTexture" "city_8/dystopiagreen"
+	"$texture2" "city_8/dystopianoise"
+	"$surfaceprop" "glass"
+	"$selfillum" 1
+	"$additive" 1
+}

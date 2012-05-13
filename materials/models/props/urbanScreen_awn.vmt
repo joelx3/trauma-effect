@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	
+	"$basetexture" "models/props/urbanScreen_awn"
+    "$surfaceprop" "grate"
+	"$nocull" 1
+	"$translucent" 1
+	
+}

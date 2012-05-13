@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Lee/Supra/supra_badging"
+	"$translucent" "1"
+}

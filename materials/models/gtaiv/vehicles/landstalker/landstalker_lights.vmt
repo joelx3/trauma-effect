@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\vehicles\landstalker\landstalker_lights"
+	"$translucent" 1
+}

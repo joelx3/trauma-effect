@@ -1,0 +1,13 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "perp2/snow/SE1_cement_lab_floor_02"
+	"$surfaceprop" "concrete"
+//	"$bumpmap" "LABS/SE1_cement_lab_floor_02_Normal"
+//	"$envmap" "env_cubemap"
+//	"$envmaptint" "[ .25 .25 .25 ]"
+//	"$envmapconstrast" "1"
+//	"$normalmapalphaenvmapmask" 1
+	"%keywords" "labs"
+} 
+
+
