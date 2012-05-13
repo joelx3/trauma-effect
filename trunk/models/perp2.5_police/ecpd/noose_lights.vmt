@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/perp2.5_police/ecpd/noose_lights"
+	"$translucent" 1
+}

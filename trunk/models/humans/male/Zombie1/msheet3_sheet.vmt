@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Humans/male/Zombie1/msheet3_sheet"
+	"$halflambert" 1
+
+}

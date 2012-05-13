@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\schmung_uzi\stocketc_map"
+      	"$bumpmap" "models\weapons\v_models\schmung_uzi\stocketc_map_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+}

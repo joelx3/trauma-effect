@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Highrise/SE1_door_metal_01C"
+	"$surfaceprop" "metal"
+	"$model" 1
+} 

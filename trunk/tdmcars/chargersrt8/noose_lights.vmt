@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\tdmcars\chargersrt8\noose_lights"
+	"$translucent" 1
+}

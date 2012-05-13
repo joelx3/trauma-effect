@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture" "models\highrise\door_handles_silver_01"
+	"$surfaceprop" "solidmetal"
+	"$model" 1
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/perp2.5_police/ecpd/police_badges"
+	"$translucent" 1
+	"$bumpmap" "models/perp2.5_police/ecpd/police_badges_n"
+	"$nocull" "1"
+}

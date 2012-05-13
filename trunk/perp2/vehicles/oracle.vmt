@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "perp2/vehicles/oracle"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

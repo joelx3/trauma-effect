@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "concrete/concretefloor015a"
+	"$surfaceprop" "concrete"
+	
+	"%keywords" "c17downtown"
+	 
+	"vertexlitgeneric_dx9"
+	{
+		"$bumpmap" "concrete\concretefloor015a_normal"
+	}
+}

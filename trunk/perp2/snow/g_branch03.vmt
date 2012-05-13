@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "perp2/snow/g_branch03"
+	$alphatest 1
+	"$nocull" 1
+}

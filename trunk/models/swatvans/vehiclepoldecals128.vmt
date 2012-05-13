@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\swatvans\vehiclepoldecals128"
+	"$translucent" 1
+}

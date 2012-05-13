@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"perpx_ag/hud/hud_ag_center"
+	"$ignorez"			1
+	"$vertexcolor" 		1
+	"$vertexalpha" 		1
+	"$nolod" 			1
+}

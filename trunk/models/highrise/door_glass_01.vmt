@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture" "models\highrise\door_glass_01"
+	"$surfaceprop" "glass"
+	"$model" 1
+	"$nocull" 1
+	"$translucent" 1
+	"$envmapmask" "models\highrise\door_glass_01_envmask"
+	"$envmap" "env_cubemap"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .56 .67 .75 ]"
+}

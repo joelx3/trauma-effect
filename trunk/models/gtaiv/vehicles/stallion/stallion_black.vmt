@@ -1,0 +1,12 @@
+//From here all this stuff has ben modded by Iñaki if u use some of this VMT just give me some credit.
+
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\vehicles\black_flat"
+	"$bumpmap" "models\gtaiv\vehicles\stallion\stallion_black_normal"
+	"$phong" "1"
+	"$phongexponent" "800"
+	"$phongboost" ".5"	
+	"$phongfresnelranges"	"[.03 4 8]"
+	"$halflambert" "1"
+}
