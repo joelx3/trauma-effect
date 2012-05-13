@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props/vidscreen01a"
+	"$model" 1
+	"$selfillum" 1
+	"$additive" 1
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" .05
+			"texturescrollangle" 270.00
+		}
+	}
+}
+
+
+}
+

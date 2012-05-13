@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "city_8/whiteglass"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"$bumpmap" "glass/glasswindow069a_normal"	
+	"$normalmapalphaenvmapmask" 1
+
+}

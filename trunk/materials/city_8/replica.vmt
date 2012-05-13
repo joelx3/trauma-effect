@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "city_8/replica"
+	"$surfaceprop" "metal"
+    "$translucent" 1
+
+}

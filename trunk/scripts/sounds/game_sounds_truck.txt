@@ -1,0 +1,296 @@
+"truck_engine_idle"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	"wave"		"vehicles/truck/idle.wav"
+}
+
+"truck_engine_null"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	"wave"		"common/null.wav"
+}
+
+"truck_engine_start"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	//"wave"		"vehicles/atv_start_loop1.wav"
+	"wave"		"vehicles/truck/start.mp3"
+}
+
+"truck_engine_stop"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	//"wave"		"common/null.wav"
+	"wave"		"vehicles/truck/stop.mp3"
+}
+
+"truck_rev"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"98,105"
+	"wave"		"vehicles/truck/rev.wav"
+
+//	"rndwave"
+//	{
+//		"wave"		"vehicles/truck/revving.wav"
+//		"wave"		"vehicles/truck/revving.wav"
+//	}
+}
+
+"truck_reverse"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/truck/reverse.wav"
+}
+
+
+"truck_firstgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"20,200"
+	//"wave"		"vehicles/v8/v8_firstgear_rev_loop1.wav"
+	"wave"		"vehicles/truck/1stgear.wav"
+}
+
+"truck_secondgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_secondgear_to_fullthrottle_loop1.wav"
+	//"wave"		"vehicles/v8/v8_secondgear_loop1.wav"
+	"wave"		"vehicles/truck/2ndgear.wav"
+}
+
+"truck_thirdgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_thirdgear_to_fullthrottle_loop1.wav"
+	//"wave"		"vehicles/v8/v8_secondgear_loop1.wav"
+	"wave"		"vehicles/truck/2ndgear.wav"
+}
+
+"truck_fourthgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	"wave"		"vehicles/truck/2ndgear.wav"
+}
+
+"truck_firstgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/truck/1stgear.wav"
+}
+"truck_secondgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/truck/2ndgear.wav"
+}
+"truck_thirdgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/truck/2ndgear.wav"
+}
+
+"truck_fourthgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/truck/2ndgear.wav"
+}
+
+"truck_downshift_to_2nd"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_downshift_to_2nd_loop1.wav"
+	"wave"		"vehicles/v8/slowdown.wav"
+	//"wave"		"vehicles/truck/idle.wav"
+	//"wave"		"common/null.wav"
+}
+
+"truck_downshift_to_1st"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_downshift_to_1st_loop1.wav"
+	"wave"		"vehicles/truck/slowdown.wav"
+	//"wave"		"vehicles/truck/idle.wav"
+	//"wave"		"common/null.wav"
+}
+
+"truck_throttleoff_slowspeed"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	"wave"		"vehicles/truck/slowdown.wav"
+	//"wave"		"vehicles/truck/idle.wav"
+}
+
+"truck_throttleoff_fastspeed"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+
+	"wave"		"vehicles/truck/slowdown.wav"
+}
+
+"truck_skid_lowfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_lowfriction.wav"
+	"wave"		"vehicles/v8/skid_lowfriction.wav"
+}
+
+"truck_skid_normalfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_normalfriction.wav"
+	"wave"		"vehicles/v8/skid_normalfriction.wav"
+}
+
+"truck_skid_highfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_highfriction.wav"
+	"wave"		"vehicles/v8/skid_highfriction.wav"
+}
+
+"truck_impact_heavy"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_impact_heavy1.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy2.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy3.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy4.wav"
+	}
+}
+
+"truck_impact_medium"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_impact_medium1.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium2.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium3.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium4.wav"
+	}
+}
+
+"truck_rollover"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_rollover1.wav"
+		"wave"	"vehicles/v8/vehicle_rollover2.wav"
+	}
+}
+
+
+"truck_turbo_on"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/vehicle_turbo_loop3.wav"
+	"wave"		"vehicles/truck/turbo.mp3"
+}
+
+"truck_turbo_off"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/vehicle_turbo_off1.wav"
+	"wave"		"vehicles/v8/v8_turbo_off.wav"
+}
+
+"truck_start_in_water"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/jetski/jetski_no_gas_start.wav"
+}
+
+"truck_stall_in_water"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/jetski/jetski_off.wav"
+}

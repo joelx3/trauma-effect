@@ -1,0 +1,26 @@
+"LightmappedGeneric"
+{
+   "$basetexture" "city_8/monitor_animated"
+   "$bumpmap" "city_8/hex_normal"
+   	"$surfaceprop" "glass"
+	"$additive" "1"
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" 20
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[1 1 1]"
+	"$rimlight" "1"									
+	"$rimlightexponent" "20"								
+	"$rimlightboost" "1"	
+	
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "0.2"
+      }
+   }
+}

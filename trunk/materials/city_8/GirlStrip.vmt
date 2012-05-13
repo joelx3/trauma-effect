@@ -1,0 +1,10 @@
+{
+   "$basetexture" "city_8/GirlStrip"
+   "$envmap" "env_cubemap"	
+   	"$surfaceprop" "glass"
+   "$bumpmap" "city_8/hex_normal"
+   "$normalmapalphaenvmapmask" 1
+	"$additive" "1"
+	"$selfillum" "1"
+
+}

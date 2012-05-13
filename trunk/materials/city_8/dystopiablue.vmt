@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "city_8/dystopiablue"
+	"$selfillum" 1
+	"$additive" "1"
+		"$surfaceprop" "glass"
+}

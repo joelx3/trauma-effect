@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "perp3/vgui/perp3_header"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$ignorez" 1
+	"$nolod" 1
+	"$translucent" 1
+}

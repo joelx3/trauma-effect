@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "perpatv/child"
+        $model 1
+}

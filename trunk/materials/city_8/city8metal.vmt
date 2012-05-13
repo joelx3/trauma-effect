@@ -1,0 +1,24 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "city_8/city8metal"
+	"$surfaceprop" "metal"
+	"%keywords" "combine"
+
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .56 .67 .75 ]"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+
+	"LightmappedGeneric_DX9"
+	{
+		"$bumpmap" "metal/metalwall077a_normal"
+		"$nodiffusebumplighting" 1
+		"$normalmapalphaenvmapmask" 1
+	}
+
+	"$phong" "1"
+	"$phongexponent" "75"
+	"$phongboost" "0.5"	
+}

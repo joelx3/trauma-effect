@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "env_textures/glass06"
+	"$surfaceprop" "glass"
+	//"$translucent" 1
+	//"$bumpmap" "env_textures/glass03normalspec"
+	"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+	"$basealphaenvmapmask" 1
+	"$envmaptint" "[ 1 1 1]"
+
+
+}

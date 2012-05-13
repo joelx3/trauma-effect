@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "city_8/c8poster7"
+	"$translucent" 1
+	"$nocull" 1
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "City8"
+}

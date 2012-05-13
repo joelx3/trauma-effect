@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "city_8/black"
+	"%compileNoLight" 1
+	"$nofog" 1
+
+}

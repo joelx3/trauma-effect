@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "city_8/tilefloor001a"
+	"$surfaceprop" "tile"
+	"$bumpmap" "city_8/tilefloor001a_normal"
+	"$phong" "1"
+	"$phongexponent" "75"
+	"$phongboost" "1"		
+}

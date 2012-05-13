@@ -1,0 +1,8 @@
+"UnlitGeneric" 
+{ 
+	"$basetexture"		"perp2/clock/hand_skinny"
+	"$vertexcolor" 		1 
+	"$vertexalpha" 		1 
+	"$translucent"		1
+	"$nolod" 			1
+} 

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "city_8/tnbded"
+	"$translucent" 1
+	"$nocull" 1
+	"$decal" 1
+	"$decalscale" 0.05
+}

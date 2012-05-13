@@ -1,0 +1,21 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "env_textures/neon50"
+	"$surfaceprop" "glass"
+	"$additive" 1
+	"$selfillum" 1
+  	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" .1
+			"texturescrollangle" 00.00
+		}
+	}
+}
+
+
+}
+
+

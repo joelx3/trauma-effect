@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "Decals/decal_c8graff010"
+	"$decal" 1
+	"$decalscale" 0.30
+		// Texture by Serman.  For use only by Taco N' Banana's City 8 Project.
+}

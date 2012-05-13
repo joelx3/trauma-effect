@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "perpatv/rubicon2"
+        $model 1
+}

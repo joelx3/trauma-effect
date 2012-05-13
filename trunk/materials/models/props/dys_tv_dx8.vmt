@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{        
+	"$basetexture" "models\props\dys_tv"  
+	"$surfaceprop" "metal"
+	"$model" 1  	
+  
+	
+}

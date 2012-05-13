@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "city_8/matrix"
+	"$selfillum" 1
+	"$additive" 1
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" .05
+			"texturescrollangle" 270.00
+		}
+	}
+}
+
+
+}
+

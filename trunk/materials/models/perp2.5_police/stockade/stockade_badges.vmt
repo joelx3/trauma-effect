@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/perp2.5_police/stockade/stockade_badges"
+	"$decal" "1"
+	"$translucent" "1"
+}

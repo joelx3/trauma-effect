@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+   "$basetexture" "city_8/riotcops"
+	"$additive" "1"
+	"$selfillum" "1"
+		"$surfaceprop" "glass"
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "15"
+      }
+   }
+}
